@@ -1,0 +1,15 @@
+execute at @a if block ~ ~-1 ~ minecraft:dirt run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:grass_block run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:sand run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:red_sand run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:snow_block run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:gravel run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:podzol run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:netherrack run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:soul_sand run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:mycelium run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:crimson_nylium run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:warped_nylium run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:soul_soil run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:terracotta run function ha:poison
+execute at @a if block ~ ~-1 ~ minecraft:white_terracotta run function ha:poison

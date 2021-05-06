@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"theflorislava> ","color":"red","bold":true},{"text":"Data Pack has been updated! good luck","color":"none","bold":false}]
+tellraw @a ["",{"text":"theflorislava> ","color":"red","bold":true},{"text":"thanks for using theflorislava created by Flamebousteur","color":"yellow","bold":false}]
